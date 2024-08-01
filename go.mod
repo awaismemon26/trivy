@@ -37,7 +37,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
 	github.com/samber/lo v1.19.0
 	github.com/spf13/afero v1.8.1 // indirect
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.12.0
 	github.com/twitchtv/twirp v8.1.2+incompatible
 	github.com/urfave/cli/v2 v2.5.1
@@ -47,7 +47,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
 )
 
@@ -154,9 +154,9 @@ require (
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	github.com/spdx/tools-golang v0.3.0
+	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/cast v1.4.1 // indirect
-	github.com/stretchr/objx v0.3.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/vbatts/tar-split v0.11.2 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
@@ -205,6 +205,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
+	github.com/anchore/go-struct-converter v0.0.0-20221118182256-c68fdcfa2092 // indirect
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
@@ -213,7 +214,7 @@ require (
 	github.com/go-openapi/jsonreference v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-cmp v0.5.7 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/googleapis/gnostic v0.5.5 // indirect
@@ -243,7 +244,7 @@ require (
 	sigs.k8s.io/kustomize/api v0.10.1 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.13.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
-	sigs.k8s.io/yaml v1.3.0 // indirect
+	sigs.k8s.io/yaml v1.4.0 // indirect
 )
 
 // To resolve CVE-2022-23648
